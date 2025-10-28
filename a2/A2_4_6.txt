@@ -1,0 +1,9 @@
+Interpretation: Some of these words should align with sentiment cues
+that the classifier has learned (e.g., positive or negative sentiment terms).
+
+Top 20 closest words to the trained neuron parameters:
+['visuals', 'simplistic', 'pleasing', 'realistic', 'insipid', 
+'flattering', 'watchable', 'cheesy', 'disquieting', 'laughable', 'cartoonish', 
+'refreshingly', 'verisimilitude', 'encapsulates', 'cartoony', 'campy', 
+'engrossing', 'nuanced', 'bracingly', 'ludicrous']
+

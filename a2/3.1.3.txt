@@ -1,0 +1,5 @@
+Ex 1: a chilling tale of one of the great crimes of 20th century france : the murder of two rich women by their servants in 1933 . 	1
+Ex 2: a fairly optimistic representation of family abuse , sexual , psychological and physical violence . 	0
+
+In the first example, it actually does explain the story directly without interjecting their own opinion, so this is labeled incorrectly.
+In the second example, stating that it is a "fairly optimistic" representation shows that they are inputting their own perspective or opinion, making this actually subjective.

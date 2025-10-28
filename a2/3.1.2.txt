@@ -1,0 +1,9 @@
+Ex 1: against all odds in heaven and hell , it creeped me out just fine . 	1
+Ex 2: the only thing i laughed at were the people who paid to see it . 	1
+Ex 3: the film is told in flashbacks with a female reporter interviewing gale . 	0
+Ex 4: anmol's greedy wife mona ( amrita arora ) forces him to meet vikrant in india and inform him about guru gulab and collect the prize money . 	0
+
+For the first example, it is given the label 1, since they are giving their own opinion or perspective when they explain how it affected them personally.
+In the second example, they are once again using "i laughed", which indicates something that works for them at an individual level.
+In example 3, they recount the movie. This is a fact from anyone's perspective, so it is labeled as objective.
+Tn the 4th example, they are once again simply stating events that occured in the movie, without giving their own opinion. They say 'he went to this location and for this reason', which is just an objective fact.
